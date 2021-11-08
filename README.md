@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikvalle)](https://github.com/erikvalle/github-readme-stats)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikvalle&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikvalle)](https://github.com/erikvalle/github-readme-stats)
 <!--
 **ErikValle/ErikValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
