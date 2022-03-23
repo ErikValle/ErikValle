@@ -2,12 +2,9 @@
 🌍 I am currently doing reserach on Deep Transfer Learning and Continual Learning for different applications such as Automatic Optical Inspection, Autonomous Vehicles, etc.
 
 Connect with me on:
-🏢 [LinkedIn][1]
-💡 [ResearchGate][2]
-🤔 [StackOverflow][3]
-  [1]: https://www.linkedin.com/in/erik-v-499345141/
-  [2]: https://www.researchgate.net/profile/Erik-Valle-Salgado
-  [3]: https://stackoverflow.com/users/15787240/illustrati
+🏢 [LinkedIn](https://www.linkedin.com/in/erik-v-499345141/)
+💡 [ResearchGate](https://www.researchgate.net/profile/Erik-Valle-Salgado)
+🤔 [StackOverflow](https://stackoverflow.com/users/15787240/illustrati)
 
 <!--
 **ErikValle/ErikValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
