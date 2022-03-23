@@ -2,12 +2,15 @@
 🌍 I am currently doing reserach on Deep Transfer Learning and Continual Learning for different applications such as Automatic Optical Inspection, Autonomous Vehicles, etc.
 
 Connect with me on:
+
 🏢 [LinkedIn](https://www.linkedin.com/in/erik-v-499345141/)
+
 💡 [ResearchGate](https://www.researchgate.net/profile/Erik-Valle-Salgado)
+
 🤔 [StackOverflow](https://stackoverflow.com/users/15787240/illustrati)
 
-
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikvalle&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikvalle&layout=compact&theme=dark)](https://github.com/erikvalle/github-readme-stats)
 
 <!--
