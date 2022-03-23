@@ -6,6 +6,10 @@ Connect with me on:
 💡 [ResearchGate](https://www.researchgate.net/profile/Erik-Valle-Salgado)
 🤔 [StackOverflow](https://stackoverflow.com/users/15787240/illustrati)
 
+
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikvalle&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikvalle&layout=compact&theme=dark)](https://github.com/erikvalle/github-readme-stats)
+
 <!--
 **ErikValle/ErikValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
