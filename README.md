@@ -1,7 +1,10 @@
-### Hi there. This is Erik Valle, a graduate student at Tsinghua University.
+### Hi there. This is Erik Valle.
 🌍 I am working on Transfer Learning, including multi-source domain adaptation, federated learning, and fine-tuning for Automatic Optical Inspection and Autonomous Vehicles.
-
 👯 I am looking to collaborate on computer vision research and transfer learning stuff, so please message me.
+
+My other two working accounts:
+- https://github.com/ErikValle2
+- https://github.com/ErikValleS
 
 Connect with me on:
 
